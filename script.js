@@ -22,13 +22,13 @@ class Cat extends Animal {
 		console.log("purr");
 	}
 }
-const cat=new Cat("cat");
-cat.makesound();
-cat.purr();
+// const cat=new Cat("cat");
+// cat.makesound();
+// cat.purr();
 
-const dog=new Dog("dog");
-dog.makesound();
-dog.bark();
+// const dog=new Dog("dog");
+// dog.makesound();
+// dog.bark();
 // Do not change the code below this line
 window.Animal = Animal;
 window.Dog = Dog;
